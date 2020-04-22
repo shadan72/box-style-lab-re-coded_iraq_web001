@@ -5,11 +5,11 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
- 
+  background:url('../images/white-wood.jpg') no-repeat 0 0;
+ background-size: cover;
 }
 body{
- background:url('../images/white-wood.jpg') no-repeat 0 0;
- background-size: cover;
+
 }
 .container, h1 {
   width: 80%;
