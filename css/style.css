@@ -69,6 +69,6 @@ img{
   box-sizing: border-box;
 }
 h4.amiable{
-  background: linear-gradient(to right, rgba(0,0,0,0.7), rgba(135, 222, 157,1));
+  background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(135, 222, 157,1));
 
 }
