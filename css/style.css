@@ -26,8 +26,7 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-  border: 1px solid 	#4e4e4e;
-  box-sizing: border-box;
+  
 }
 
 .amiable {
@@ -69,6 +68,6 @@ img{
   box-sizing: border-box;
 }
 h4.amiable{
-  background: linear-gradient(to right, rgba(34, 170, 68,1), rgba(135, 222, 157,1));
+ 
 
 }
