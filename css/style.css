@@ -66,3 +66,6 @@ img{
   border: 1px solid 	#4e4e4e;
   box-sizing: border-box;
 }
+h1{
+  background: linear-gradient(to right, #fff, #000)
+}
