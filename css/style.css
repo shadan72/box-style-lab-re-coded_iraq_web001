@@ -11,6 +11,7 @@ body{
   background:url('../images/white-wood.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  width:100%;
 }
 .container, h1 {
   width: 80%;
