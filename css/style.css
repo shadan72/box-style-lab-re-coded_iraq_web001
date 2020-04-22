@@ -36,6 +36,7 @@ h4 {
 
 .dubious {
   background-color: #dd4444;
+  box-shadow: -1px 1px ;
 }
 
 .column {
