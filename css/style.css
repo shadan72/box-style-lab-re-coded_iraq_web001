@@ -68,4 +68,6 @@ img{
 }
 h4{
   background: linear-gradient(to right, rgba(0,0,0,0.3), rgba(34, 170, 68,0.5));
+    border: 1px solid 	#4e4e4e;
+  box-sizing: border-box;
 }
