@@ -9,7 +9,7 @@ body, html {
 }
 body{
  background-image: url(white-wood.jpg);
- background-repeat:cover; 
+ background-size:cover; 
 } 
 .container, h1 {
   width: 80%;
