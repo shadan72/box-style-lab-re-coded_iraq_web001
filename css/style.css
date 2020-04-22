@@ -67,5 +67,5 @@ img{
   box-sizing: border-box;
 }
 h4{
-  background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(34, 170, 68,0.5));
+  background: linear-gradient(to right, rgba(0,0,0,0.3), rgba(34, 170, 68,0.5));
 }
