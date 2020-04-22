@@ -9,8 +9,8 @@ body, html {
 }
 body{
   background:url('../images/white-wood.jpg');
-  background-repeat: no-repeat;background-size: cover;
-
+  background-repeat: no-repeat;
+  background-size: cover;
  position: relative;
 }
 .container, h1 {
