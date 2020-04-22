@@ -8,7 +8,7 @@ body, html {
  
 }
 body{
- background:url('../images/white-wood.jpg') norepeat 0 0;
+ background:url('../images/white-wood.jpg');
  background-size: cover;
 }
 .container, h1 {
