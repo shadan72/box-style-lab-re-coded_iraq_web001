@@ -33,20 +33,17 @@ h4 {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
-  background: linear-gradient(to right, #1a7d33,#8adf9f );
 
 }
 
 .indifferent {
   background-color: #dddd22;
   box-shadow: -1px 1px #abab1b, -2px 2px #abab1b, -3px 3px #abab1b, -4px 4px #abab1b;
-    background: linear-gradient(to right,#777713, #e2e241);
 }
 
 .dubious {
   background-color: #dd4444;
   box-shadow: -1px 1px #b82121, -2px 2px #b82121, -3px 3px #b82121, -4px 4px #b82121 ;
-     background: linear-gradient(to right,#971c1c, #b82121);
 }
 
 .column {
@@ -69,4 +66,14 @@ h4 {
 img{
   border: 1px solid 	#4e4e4e;
   box-sizing: border-box;
+}
+h4.amiable{
+ 
+background: linear-gradient(to right, #1a7d33,#8adf9f );
+}
+h4.indifferent{
+  background: linear-gradient(to right,#777713, #e2e241);
+}
+h4.dubious{
+   background: linear-gradient(to right,#971c1c, #b82121);
 }
