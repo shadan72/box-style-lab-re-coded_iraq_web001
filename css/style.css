@@ -5,12 +5,11 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
- 
-}
-body{
+  
  background-image: url(white-wood.jpg);
  background-size:cover; 
-} 
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
